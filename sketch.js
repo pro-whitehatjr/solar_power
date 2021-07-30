@@ -19,7 +19,6 @@ function preload()
 {
   sun = loadImage("sun.png");
   bg = loadImage("Asset-05.png")
-  polyImage =loadImage("poly.png");
   s_pan = loadImage("s_panel.png");
   fan_anim = loadAnimation("fan-01.png","fan-02.png","fan-03.png","fan-04.png");
   fan_anim.play = false;
